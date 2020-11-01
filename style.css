@@ -1,0 +1,45 @@
+.header{
+	min-height: 80px;
+	background-color: red;
+
+}
+.box{
+     overflow: hidden;
+     border: 10px solid yellow;
+
+}
+.blog{
+	min-height: 150px;
+	background-color: blue;
+	width: 32.5%;
+	border: 5px solid white;
+	float: left;
+
+
+
+}.blog{
+	min-height: 150px;
+	background-color: blue;
+	width: 32.5%;
+	border: 5px solid white;
+	float: left;
+
+
+
+}.blog{
+	min-height: 150px;
+	background-color: blue;
+	width: 32.72%;
+	border: 5px solid white;
+	float: left;
+
+
+
+}
+
+.footer{
+	min-height: 80px;
+	background-color: black;
+	border: 10px solid skyblue;
+	
+}
